@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "حفظ القرأن",
+        "category": "شخصي",
+        "priority": "منخفضة",
+        "due_date": "خلال الفترة القادمة",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "درسة قدرات لفظي وكمي",
+        "category": "دراسة",
+        "priority": "منخفضة",
+        "due_date": "خلال الفترة القادمة",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "title": "دراسة تحصيلي",
+        "category": "دراسة",
+        "priority": "منخفضة",
+        "due_date": "خلال الفترة القادمة",
+        "completed": false
+    }
+]
