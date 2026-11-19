@@ -1,26 +1,18 @@
 [
     {
         "id": 1,
-        "title": "حفظ القرأن",
+        "title": "عندي إختبار فيزيا ضروري رتب لي جدول على هذا الأساس",
         "category": "شخصي",
-        "priority": "منخفضة",
+        "priority": "عالية",
         "due_date": "خلال الفترة القادمة",
         "completed": false
     },
     {
         "id": 2,
-        "title": "درسة قدرات لفظي وكمي",
-        "category": "دراسة",
+        "title": "البرمجة",
+        "category": "برمجة",
         "priority": "منخفضة",
         "due_date": "خلال الفترة القادمة",
         "completed": true
-    },
-    {
-        "id": 3,
-        "title": "دراسة تحصيلي",
-        "category": "دراسة",
-        "priority": "منخفضة",
-        "due_date": "خلال الفترة القادمة",
-        "completed": false
     }
 ]

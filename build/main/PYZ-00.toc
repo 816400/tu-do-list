@@ -1,4 +1,4 @@
-('E:\\to du app\\build\\main\\PYZ-00.pyz',
+('D:\\  to du app\\build\\main\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\omars\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\__future__.py',
    'PYMODULE'),
